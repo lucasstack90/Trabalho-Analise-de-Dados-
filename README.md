@@ -1,6 +1,6 @@
 # 🚗 Projeto de Análise de Dados: Mercado Automotivo (FIPE)
 
-Este repositório contém uma análise prática utilizando a biblioteca **Pandas** e **Matplotlib** para explorar dados de preços de carros no Brasil. 
+Este repositório tem como objetivo análisar os dados apartir do arquivo "precos_carros_brasil.csv". 
 
 O foco deste projeto é demonstrar a aplicação de diferentes tipos de gráficos para extrair informações valiosas de um arquivo CSV (Tabela FIPE).
 
