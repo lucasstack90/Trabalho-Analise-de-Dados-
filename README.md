@@ -40,11 +40,3 @@ O histograma revela a distribuição dos preços. Ele mostra se o conjunto de da
 * **Python 3.x**
 * **Pandas**: Para manipulação da base `precos_carros_brasil.csv`.
 * **Matplotlib**: Para geração e exportação das imagens.
-
-## 🚀 Como gerar as imagens?
-Para que as fotos acima apareçam no seu GitHub, você deve executar o script Python e salvar os arquivos com os nomes:
-1. `grafico_barras.png`
-2. `grafico_linhas.png`
-3. `histograma.png`
-
-E depois fazer o **upload** desses arquivos para a mesma pasta onde está o seu README.md.
